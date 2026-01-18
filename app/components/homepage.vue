@@ -11,7 +11,7 @@
     <div class="text2">
       Welcome to the NSTNO mod homepage. This website is dedicated to the mod
       "Noobic Stratocracy: The New Order".
-      <div>Any questions please refer to the github to communicate</div>
+      <div>Any suggestions please refer to the Github Repository issues</div>
     </div>
 
   </div>
