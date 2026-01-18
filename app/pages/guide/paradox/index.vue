@@ -1,6 +1,6 @@
 <template>
   <div>
-    How to install Noobic Stratocracy: The New Order
+    
   </div>
 </template>
 
